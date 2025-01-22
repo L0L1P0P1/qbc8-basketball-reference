@@ -3,7 +3,7 @@ Data Scraping and Analysis project for Quera Data Analysis Bootcamp (qbc8) by Gr
 
 
 # Setting Up Poetry for Python
-This Project Uses Poetry for python dependency managements and virtual environments
+This Project Uses Poetry for python dependency managements and virtual environments. Although you can achieve similar results by checking the required dependencies from `pyproject.toml` and installing them using pip or any other python package management software.
 
 ## Prerequisites
 
