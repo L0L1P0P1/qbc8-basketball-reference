@@ -14,6 +14,7 @@
 			packages = with pkgs; [
 				pyright
 				poetry
+				libgcc
 				(python312.withPackages (python-pkgs: with python-pkgs; [
 					# jupyter
 					# requests
@@ -23,6 +24,8 @@
 					# numpy 
 				]))
 			];
+
+			LD_LIBRARY_PATH="${pkgs.stdenv.cc.cc.lib}/lib";
 			inputsFrom = [];
 		};
 	};
