@@ -35,8 +35,6 @@ This Project Uses Poetry for python dependency managements and virtual environme
    poetry install 
    ```
 
----
-
 ## 3. Entering the Poetry Virtual Environment
 
 1. To activate the virtual environment managed by Poetry, run:
