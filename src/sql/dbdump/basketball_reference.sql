@@ -113,6 +113,93 @@ INSERT INTO `mvp` VALUES
 UNLOCK TABLES;
 
 --
+-- Table structure for table `mvp_nominees`
+--
+
+DROP TABLE IF EXISTS `mvp_nominees`;
+/*!40101 SET @saved_cs_client     = @@character_set_client */;
+/*!40101 SET character_set_client = utf8 */;
+CREATE TABLE `mvp_nominees` (
+  `mvp_ranking` tinyint(4) NOT NULL,
+  `player_id` varchar(31) NOT NULL,
+  `team_year_id` varchar(8) NOT NULL,
+  PRIMARY KEY (`mvp_ranking`,`player_id`,`team_year_id`),
+  KEY `player_id` (`player_id`),
+  KEY `team_year_id` (`team_year_id`),
+  CONSTRAINT `mvp_nominees_ibfk_1` FOREIGN KEY (`player_id`) REFERENCES `players` (`player_id`) ON DELETE CASCADE,
+  CONSTRAINT `mvp_nominees_ibfk_2` FOREIGN KEY (`team_year_id`) REFERENCES `team_year_mapping` (`team_year_id`) ON DELETE CASCADE
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
+/*!40101 SET character_set_client = @saved_cs_client */;
+
+--
+-- Dumping data for table `mvp_nominees`
+--
+
+LOCK TABLES `mvp_nominees` WRITE;
+/*!40000 ALTER TABLE `mvp_nominees` DISABLE KEYS */;
+INSERT INTO `mvp_nominees` VALUES
+(1,'a/antetgi01','MIL/2020'),
+(1,'e/embiijo01','PHI/2023'),
+(1,'j/jokicni01','DEN/2021'),
+(1,'j/jokicni01','DEN/2022'),
+(1,'j/jokicni01','DEN/2024'),
+(2,'e/embiijo01','PHI/2021'),
+(2,'e/embiijo01','PHI/2022'),
+(2,'g/gilgesh01','OKC/2024'),
+(2,'j/jamesle01','LAL/2020'),
+(2,'j/jokicni01','DEN/2023'),
+(3,'a/antetgi01','MIL/2022'),
+(3,'a/antetgi01','MIL/2023'),
+(3,'c/curryst01','GSW/2021'),
+(3,'d/doncilu01','DAL/2024'),
+(3,'h/hardeja01','HOU/2020'),
+(4,'a/antetgi01','MIL/2021'),
+(4,'a/antetgi01','MIL/2024'),
+(4,'b/bookede01','PHO/2022'),
+(4,'d/doncilu01','DAL/2020'),
+(4,'t/tatumja01','BOS/2023'),
+(5,'b/brunsja01','NYK/2024'),
+(5,'d/doncilu01','DAL/2022'),
+(5,'g/gilgesh01','OKC/2023'),
+(5,'l/leonaka01','LAC/2020'),
+(5,'p/paulch01','PHO/2021'),
+(6,'d/davisan02','LAL/2020'),
+(6,'d/doncilu01','DAL/2021'),
+(6,'m/mitchdo01','CLE/2023'),
+(6,'t/tatumja01','BOS/2022'),
+(6,'t/tatumja01','BOS/2024'),
+(7,'e/edwaran01','MIN/2024'),
+(7,'l/lillada01','POR/2021'),
+(7,'m/moranja01','MEM/2022'),
+(7,'p/paulch01','OKC/2020'),
+(7,'s/sabondo01','SAC/2023'),
+(8,'c/curryst01','GSW/2022'),
+(8,'d/doncilu01','DAL/2023'),
+(8,'l/lillada01','POR/2020'),
+(8,'r/randlju01','NYK/2021'),
+(8,'s/sabondo01','SAC/2024'),
+(9,'c/curryst01','GSW/2023'),
+(9,'d/duranke01','PHO/2024'),
+(9,'g/goberru01','UTA/2021'),
+(9,'j/jokicni01','DEN/2020'),
+(9,'p/paulch01','PHO/2022'),
+(10,'b/butleji01','MIA/2023'),
+(10,'d/derozde01','CHI/2022'),
+(10,'s/siakapa01','TOR/2020'),
+(10,'w/westbru01','WAS/2021'),
+(11,'b/butleji01','MIA/2020'),
+(11,'d/duranke01','BRK/2022'),
+(11,'f/foxde01','SAC/2023'),
+(11,'j/jamesle01','LAL/2021'),
+(12,'b/brunsja01','NYK/2023'),
+(12,'j/jamesle01','LAL/2022'),
+(12,'l/leonaka01','LAC/2021'),
+(12,'t/tatumja01','BOS/2020'),
+(13,'m/moranja01','MEM/2023');
+/*!40000 ALTER TABLE `mvp_nominees` ENABLE KEYS */;
+UNLOCK TABLES;
+
+--
 -- Table structure for table `player_position`
 --
 
@@ -1898,4 +1985,4 @@ UNLOCK TABLES;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
 /*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */;
 
--- Dump completed on 2025-01-31 14:30:17
+-- Dump completed on 2025-01-31 18:51:30

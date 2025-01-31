@@ -95,68 +95,14 @@ FROM player_rank pr
 JOIN players p ON pr.player_id = p.player_id
 JOIN team_year_id tyi ON pr.team_year_id = tyi.team_year_id
 WHERE pr.rank <= 15 -- Only top 15 players
-AND tyi.year BETWEEN 2023 AND 2024 -- Filter by team year (2023-2024)
+AND tyi.year BETWEEN 2023 AND 2024; -- Filter by team year (2023-2024)
 
--- Descriptive statistics 3 - before
--- Count the number of MVP wins for each point guard and order by the most MVP wins
-WITH PointGuard AS (
-    SELECT 
-        players.player_id,
-        pr.player_name,
-        pr.team_year_id
-    FROM 
-        player_rank pr
-    JOIN 
-        player_position pp 
-	ON 
-		pr.player_id = pp.player_id
-    JOIN 
-        players p ON m.player_id = p.player_id
-    WHERE 
-        pp.position = 'Point Guard'
-        AND SUBSTRING_INDEX(m.team_year_id, '/', -1) IN ('2020', '2021', '2022', '2023', '2024') -- Filtering only specific years
-)
 
-SELECT 
-    player_name, 
-    COUNT(*) AS mvp_wins -- Counting MVP wins per player
-FROM 
-    PointGuardMVPs
-GROUP BY 
-    player_name
-ORDER BY 
-    mvp_wins DESC;
-    
--- Descriptive statistics 3 - after
-WITH PointGuard AS (
-    SELECT 
-        pp.player_id,
-        pp.position,
-        p.player_name,
-        pr.rank,
 
-        pr.team_year_id
-    FROM 
-        player_position pp
-    JOIN 
-        players p
-	ON 
-		pp.player_id = p.player_id
-    JOIN 
-        player_rank pr
-	ON 
-		pr.player_id = p.player_id
-    WHERE 
-        pp.position = 'Point Guard'
-        AND SUBSTRING_INDEX(pr.team_year_id, '/', -1) IN ('2020', '2021', '2022', '2023', '2024') -- Filtering only specific years
-)
-
-SELECT 
-    player_id, 
-    COUNT(*) AS wins -- Counting MVP wins per player
-FROM 
-    PointGuard
-GROUP BY 
-    player_id
-ORDER BY 
-    wins DESC;
+-- Descriptive statistics 3
+SELECT player_name, COUNT(*) as nominations FROM mvp_nominees mp
+JOIN players p ON mp.player_id = p.player_id
+JOIN player_position pp ON pp.player_id = mp.player_id
+WHERE `position` = "Point Guard"
+GROUP BY mp.player_id 
+ORDER BY COUNT(*) DESC;
