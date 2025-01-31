@@ -80,7 +80,7 @@ JOIN players p ON pty.player_id = p.player_id
 JOIN team_year_mapping tym ON pty.team_year_id = tym.team_year_id
 JOIN standings s ON s.team_year_id = tym.team_year_id
 WHERE s.standing = 1  -- Only consider the top-ranked (champion) teams
-AND tyi.year BETWEEN 2023 AND 2024 -- Filter by team year (2022-2023)
+AND tym.year BETWEEN 2023 AND 2024 -- Filter by team year (2022-2023)
 
 UNION ALL
 
