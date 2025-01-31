@@ -29,7 +29,7 @@ CREATE TABLE `mvp` (
   PRIMARY KEY (`player_id`,`team_year_id`),
   KEY `team_year_id` (`team_year_id`),
   CONSTRAINT `mvp_ibfk_1` FOREIGN KEY (`player_id`) REFERENCES `players` (`player_id`) ON DELETE CASCADE,
-  CONSTRAINT `mvp_ibfk_2` FOREIGN KEY (`team_year_id`) REFERENCES `team_year_id` (`team_year_id`) ON DELETE CASCADE
+  CONSTRAINT `mvp_ibfk_2` FOREIGN KEY (`team_year_id`) REFERENCES `team_year_mapping` (`team_year_id`) ON DELETE CASCADE
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
 /*!40101 SET character_set_client = @saved_cs_client */;
 
@@ -554,14 +554,14 @@ DROP TABLE IF EXISTS `player_rank`;
 /*!40101 SET @saved_cs_client     = @@character_set_client */;
 /*!40101 SET character_set_client = utf8 */;
 CREATE TABLE `player_rank` (
-  `rank` int(11) NOT NULL,
+  `ranking` int(11) NOT NULL,
   `player_id` varchar(31) NOT NULL,
   `team_year_id` varchar(8) NOT NULL,
-  PRIMARY KEY (`rank`,`player_id`,`team_year_id`),
+  PRIMARY KEY (`ranking`,`player_id`,`team_year_id`),
   KEY `player_id` (`player_id`),
   KEY `team_year_id` (`team_year_id`),
   CONSTRAINT `player_rank_ibfk_1` FOREIGN KEY (`player_id`) REFERENCES `players` (`player_id`) ON DELETE CASCADE,
-  CONSTRAINT `player_rank_ibfk_2` FOREIGN KEY (`team_year_id`) REFERENCES `team_year_id` (`team_year_id`) ON DELETE CASCADE
+  CONSTRAINT `player_rank_ibfk_2` FOREIGN KEY (`team_year_id`) REFERENCES `team_year_mapping` (`team_year_id`) ON DELETE CASCADE
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
 /*!40101 SET character_set_client = @saved_cs_client */;
 
@@ -838,7 +838,7 @@ CREATE TABLE `player_team_year` (
   PRIMARY KEY (`player_id`,`team_year_id`),
   KEY `team_year_id` (`team_year_id`),
   CONSTRAINT `player_team_year_ibfk_1` FOREIGN KEY (`player_id`) REFERENCES `players` (`player_id`) ON DELETE CASCADE,
-  CONSTRAINT `player_team_year_ibfk_2` FOREIGN KEY (`team_year_id`) REFERENCES `team_year_id` (`team_year_id`) ON DELETE CASCADE
+  CONSTRAINT `player_team_year_ibfk_2` FOREIGN KEY (`team_year_id`) REFERENCES `team_year_mapping` (`team_year_id`) ON DELETE CASCADE
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
 /*!40101 SET character_set_client = @saved_cs_client */;
 
@@ -1636,7 +1636,7 @@ CREATE TABLE `standings` (
   `team_year_id` varchar(8) NOT NULL,
   PRIMARY KEY (`standing`,`team_year_id`),
   KEY `team_year_id` (`team_year_id`),
-  CONSTRAINT `standings_ibfk_1` FOREIGN KEY (`team_year_id`) REFERENCES `team_year_id` (`team_year_id`) ON DELETE CASCADE
+  CONSTRAINT `standings_ibfk_1` FOREIGN KEY (`team_year_id`) REFERENCES `team_year_mapping` (`team_year_id`) ON DELETE CASCADE
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
 /*!40101 SET character_set_client = @saved_cs_client */;
 
@@ -1661,13 +1661,13 @@ INSERT INTO `standings` VALUES
 UNLOCK TABLES;
 
 --
--- Table structure for table `team_year_id`
+-- Table structure for table `team_year_mapping`
 --
 
-DROP TABLE IF EXISTS `team_year_id`;
+DROP TABLE IF EXISTS `team_year_mapping`;
 /*!40101 SET @saved_cs_client     = @@character_set_client */;
 /*!40101 SET character_set_client = utf8 */;
-CREATE TABLE `team_year_id` (
+CREATE TABLE `team_year_mapping` (
   `team_year_id` varchar(8) NOT NULL,
   `team_id` varchar(3) NOT NULL,
   `year` year(4) NOT NULL,
@@ -1676,12 +1676,12 @@ CREATE TABLE `team_year_id` (
 /*!40101 SET character_set_client = @saved_cs_client */;
 
 --
--- Dumping data for table `team_year_id`
+-- Dumping data for table `team_year_mapping`
 --
 
-LOCK TABLES `team_year_id` WRITE;
-/*!40000 ALTER TABLE `team_year_id` DISABLE KEYS */;
-INSERT INTO `team_year_id` VALUES
+LOCK TABLES `team_year_mapping` WRITE;
+/*!40000 ALTER TABLE `team_year_mapping` DISABLE KEYS */;
+INSERT INTO `team_year_mapping` VALUES
 ('ATL/2020','ATL',2020),
 ('ATL/2021','ATL',2021),
 ('ATL/2022','ATL',2022),
@@ -1886,7 +1886,7 @@ INSERT INTO `team_year_id` VALUES
 ('WAS/2021','WAS',2021),
 ('WAS/2023','WAS',2023),
 ('WAS/2024','WAS',2024);
-/*!40000 ALTER TABLE `team_year_id` ENABLE KEYS */;
+/*!40000 ALTER TABLE `team_year_mapping` ENABLE KEYS */;
 UNLOCK TABLES;
 /*!40103 SET TIME_ZONE=@OLD_TIME_ZONE */;
 
@@ -1898,4 +1898,4 @@ UNLOCK TABLES;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
 /*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */;
 
--- Dump completed on 2025-01-28 22:42:04
+-- Dump completed on 2025-01-31 14:30:17

@@ -1,6 +1,7 @@
 # qbc8-basketball-reference
-Data Scraping and Analysis project for Quera Data Analysis Bootcamp (qbc8) by Group4
+Welcome to the repository for our Data Scraping and Analysis project, developed as part of the Quera Data Analysis Bootcamp (QBC8). This project is a collaborative effort by Group 4, consisting of **Sahar Hannani**, **Behrad Badeli**, and **Milad Zeinali**, under the mentorship of **Parsa Behmanesh**.
 
+Our project focuses on leveraging data scraping techniques to collect valuable datasets, followed by in-depth analysis to extract meaningful insights. This README provides an overview of the project, its objectives, methodologies, and how to navigate the repository.
 
 # Setting Up Poetry for Python
 This Project Uses Poetry for python dependency managements and virtual environments. Although you can achieve similar results by checking the required dependencies from `pyproject.toml` and installing them using pip or any other python package management software.
