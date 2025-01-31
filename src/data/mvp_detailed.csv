@@ -1,0 +1,70 @@
+,player_name,player_id,team_id,year,height_cm,weight_kg,position,shooting_hand,retired,experience,birthplace,birthdate
+0,Nikola Jokić,j/jokicni01,DEN,2024,211,128,['Center'],Right,False,9,Serbia,1995-02-19
+1,Joel Embiid,e/embiijo01,PHI,2023,213,127,['Center'],Right,False,8,Cameroon,1994-03-16
+2,Nikola Jokić,j/jokicni01,DEN,2022,211,128,['Center'],Right,False,9,Serbia,1995-02-19
+3,Nikola Jokić,j/jokicni01,DEN,2021,211,128,['Center'],Right,False,9,Serbia,1995-02-19
+4,Giannis Antetokounmpo,a/antetgi01,MIL,2020,211,109,"['Power Forward', 'Small Forward', 'Point Guard', 'Shooting Guard']",Right,False,11,Greece,1994-12-06
+5,Giannis Antetokounmpo,a/antetgi01,MIL,2019,211,109,"['Power Forward', 'Small Forward', 'Point Guard', 'Shooting Guard']",Right,False,11,Greece,1994-12-06
+6,James Harden,h/hardeja01,HOU,2018,196,99,"['Point Guard', 'Shooting Guard']",Left,False,15,United States,1989-08-26
+7,Russell Westbrook,w/westbru01,OKC,2017,193,90,['Point Guard'],Right,False,16,United States,1988-11-12
+8,Stephen Curry,c/curryst01,GSW,2016,188,83,['Point Guard'],Right,False,15,United States,1988-03-14
+9,Stephen Curry,c/curryst01,GSW,2015,188,83,['Point Guard'],Right,False,15,United States,1988-03-14
+10,Kevin Durant,d/duranke01,OKC,2014,211,108,"['Small Forward', 'Power Forward', 'Shooting Guard']",Right,False,16,United States,1988-09-29
+11,LeBron James,j/jamesle01,MIA,2013,206,113,"['Small Forward', 'Power Forward', 'Point Guard', 'Center', 'Shooting Guard']",Right,False,21,United States,1984-12-30
+12,LeBron James,j/jamesle01,MIA,2012,206,113,"['Small Forward', 'Power Forward', 'Point Guard', 'Center', 'Shooting Guard']",Right,False,21,United States,1984-12-30
+13,Derrick Rose,r/rosede01,CHI,2011,190,90,['Point Guard'],Right,True,15,United States,1988-10-04
+14,LeBron James,j/jamesle01,CLE,2010,206,113,"['Small Forward', 'Power Forward', 'Point Guard', 'Center', 'Shooting Guard']",Right,False,21,United States,1984-12-30
+15,LeBron James,j/jamesle01,CLE,2009,206,113,"['Small Forward', 'Power Forward', 'Point Guard', 'Center', 'Shooting Guard']",Right,False,21,United States,1984-12-30
+16,Kobe Bryant,b/bryanko01,LAL,2008,198,96,"['Shooting Guard', 'Small Forward']",Right,True,20,United States,1978-08-23
+17,Dirk Nowitzki,n/nowitdi01,DAL,2007,213,111,"['Power Forward', 'Center']",Right,True,21,Germany,1978-06-19
+18,Steve Nash,n/nashst01,PHO,2006,190,88,['Point Guard'],Right,True,18,South Africa,1974-02-07
+19,Steve Nash,n/nashst01,PHO,2005,190,88,['Point Guard'],Right,True,18,South Africa,1974-02-07
+20,Kevin Garnett,g/garneke01,MIN,2004,211,108,"['Power Forward', 'Center', 'Small Forward']",Right,True,21,United States,1976-05-19
+21,Tim Duncan,d/duncati01,SAS,2003,211,113,"['Center', 'Power Forward']",Right,True,19,U.S. Virgin Islands,1976-04-25
+22,Tim Duncan,d/duncati01,SAS,2002,211,113,"['Center', 'Power Forward']",Right,True,19,U.S. Virgin Islands,1976-04-25
+23,Allen Iverson,i/iversal01,PHI,2001,183,74,"['Shooting Guard', 'Point Guard']",Right,True,14,United States,1975-06-07
+24,Shaquille O'Neal,o/onealsh01,LAL,2000,216,147,['Center'],Right,True,19,United States,1972-03-06
+25,Karl Malone,m/malonka01,UTA,1999,206,113,['Power Forward'],Right,True,19,United States,1963-07-24
+26,Michael Jordan,j/jordami01,CHI,1998,198,89,"['Shooting Guard', 'Small Forward']",Right,True,15,United States,1963-02-17
+27,Karl Malone,m/malonka01,UTA,1997,206,113,['Power Forward'],Right,True,19,United States,1963-07-24
+28,Michael Jordan,j/jordami01,CHI,1996,198,89,"['Shooting Guard', 'Small Forward']",Right,True,15,United States,1963-02-17
+29,David Robinson,r/robinda01,SAS,1995,216,106,['Center'],Left,True,14,United States,1965-08-06
+30,Hakeem Olajuwon,o/olajuha01,HOU,1994,213,115,['Center'],Right,True,18,Nigeria,1963-01-21
+31,Charles Barkley,b/barklch01,PHO,1993,198,114,"['Power Forward', 'Small Forward']",Right,True,16,United States,1963-02-20
+32,Michael Jordan,j/jordami01,CHI,1992,198,89,"['Shooting Guard', 'Small Forward']",Right,True,15,United States,1963-02-17
+33,Michael Jordan,j/jordami01,CHI,1991,198,89,"['Shooting Guard', 'Small Forward']",Right,True,15,United States,1963-02-17
+34,Magic Johnson,j/johnsma02,LAL,1990,206,97,"['Point Guard', 'Shooting Guard', 'Power Forward']",Right,True,13,United States,1959-08-14
+35,Magic Johnson,j/johnsma02,LAL,1989,206,97,"['Point Guard', 'Shooting Guard', 'Power Forward']",Right,True,13,United States,1959-08-14
+36,Michael Jordan,j/jordami01,CHI,1988,198,89,"['Shooting Guard', 'Small Forward']",Right,True,15,United States,1963-02-17
+37,Magic Johnson,j/johnsma02,LAL,1987,206,97,"['Point Guard', 'Shooting Guard', 'Power Forward']",Right,True,13,United States,1959-08-14
+38,Larry Bird,b/birdla01,BOS,1986,206,99,"['Small Forward', 'Power Forward']",Right,True,13,United States,1956-12-07
+39,Larry Bird,b/birdla01,BOS,1985,206,99,"['Small Forward', 'Power Forward']",Right,True,13,United States,1956-12-07
+40,Larry Bird,b/birdla01,BOS,1984,206,99,"['Small Forward', 'Power Forward']",Right,True,13,United States,1956-12-07
+41,Moses Malone,m/malonmo01,PHI,1983,208,97,"['Center', 'Power Forward']",Right,True,21,United States,1955-03-23
+42,Moses Malone,m/malonmo01,HOU,1982,208,97,"['Center', 'Power Forward']",Right,True,21,United States,1955-03-23
+43,Julius Erving,e/ervinju01,PHI,1981,201,95,"['Small Forward', 'Shooting Guard']",Right,True,16,United States,1950-02-22
+44,Kareem Abdul-Jabbar,a/abdulka01,LAL,1980,218,102,['Center'],Right,True,20,United States,1947-04-16
+45,Moses Malone,m/malonmo01,HOU,1979,208,97,"['Center', 'Power Forward']",Right,True,21,United States,1955-03-23
+46,Bill Walton,w/waltobi01,POR,1978,211,95,['Center'],Right,True,10,United States,1952-11-05
+47,Kareem Abdul-Jabbar,a/abdulka01,LAL,1977,218,102,['Center'],Right,True,20,United States,1947-04-16
+48,Kareem Abdul-Jabbar,a/abdulka01,LAL,1976,218,102,['Center'],Right,True,20,United States,1947-04-16
+49,Bob McAdoo,m/mcadobo01,BUF,1975,206,95,"['Center', 'Power Forward']",Right,True,14,United States,1951-09-25
+50,Kareem Abdul-Jabbar,a/abdulka01,MIL,1974,218,102,['Center'],Right,True,20,United States,1947-04-16
+51,Dave Cowens,c/cowenda01,BOS,1973,206,104,"['Center', 'Power Forward']",Left,True,11,United States,1948-10-25
+52,Kareem Abdul-Jabbar,a/abdulka01,MIL,1972,218,102,['Center'],Right,True,20,United States,1947-04-16
+53,Kareem Abdul-Jabbar,a/abdulka01,MIL,1971,218,102,['Center'],Right,True,20,United States,1947-04-16
+54,Willis Reed,r/reedwi01,NYK,1970,208,106,"['Center', 'Power Forward']",Left,True,10,United States,1942-06-25
+55,Wes Unseld,u/unselwe01,BAL,1969,201,111,['Center'],Right,True,13,United States,1946-03-14
+56,Wilt Chamberlain,c/chambwi01,PHI,1968,216,124,['Center'],Right,True,14,United States,1936-08-21
+57,Wilt Chamberlain,c/chambwi01,PHI,1967,216,124,['Center'],Right,True,14,United States,1936-08-21
+58,Wilt Chamberlain,c/chambwi01,PHI,1966,216,124,['Center'],Right,True,14,United States,1936-08-21
+59,Bill Russell,r/russebi01,BOS,1965,208,97,['Center'],Left,True,13,United States,1934-02-12
+60,Oscar Robertson,r/roberos01,CIN,1964,196,92,['Point Guard'],Right,True,14,United States,1938-11-24
+61,Bill Russell,r/russebi01,BOS,1963,208,97,['Center'],Left,True,13,United States,1934-02-12
+62,Bill Russell,r/russebi01,BOS,1962,208,97,['Center'],Left,True,13,United States,1934-02-12
+63,Bill Russell,r/russebi01,BOS,1961,208,97,['Center'],Left,True,13,United States,1934-02-12
+64,Wilt Chamberlain,c/chambwi01,PHW,1960,216,124,['Center'],Right,True,14,United States,1936-08-21
+65,Bob Pettit,p/pettibo01,STL,1959,206,92,"['Power Forward', 'Center']",Right,True,11,United States,1932-12-12
+66,Bill Russell,r/russebi01,BOS,1958,208,97,['Center'],Left,True,13,United States,1934-02-12
+67,Bob Cousy,c/cousybo01,BOS,1957,185,79,['Point Guard'],Right,True,14,United States,1928-08-09
+68,Bob Pettit,p/pettibo01,STL,1956,206,92,"['Power Forward', 'Center']",Right,True,11,United States,1932-12-12

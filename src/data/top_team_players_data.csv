@@ -1,0 +1,192 @@
+,shirt_number,player_name,player_id,team_id,year,height_cm,weight_kg,position,shooting_hand,retired,experience,birthplace,birthdate
+0,34,Giannis Antetokounmpo,a/antetgi01,MIL,2020,211,109,"['Power Forward', 'Small Forward', 'Point Guard', 'Shooting Guard']",Right,False,6,Greece,1994-12-06
+1,43,Thanasis Antetokounmpo,a/antetth01,MIL,2020,201,99,"['Small Forward', 'Power Forward']",Right,False,1,Greece,1992-07-18
+2,17,Dragan Bender,b/bendedr01,MIL,2020,213,102,"['Power Forward', 'Center']",Right,True,3,Bosnia and Herzegovina,1997-11-17
+3,6,Eric Bledsoe,b/bledser01,MIL,2020,185,97,"['Point Guard', 'Shooting Guard']",Right,True,9,United States,1989-12-09
+4,23,Sterling Brown,b/brownst02,MIL,2020,196,99,"['Shooting Guard', 'Small Forward']",Right,False,2,United States,1995-02-10
+5,24,Pat Connaughton,c/connapa01,MIL,2020,196,94,"['Shooting Guard', 'Small Forward']",Right,False,4,United States,1993-01-06
+6,0,Donte DiVincenzo,d/divindo01,MIL,2020,193,92,['Shooting Guard'],Right,False,1,United States,1997-01-31
+7,3,George Hill,h/hillge01,MIL,2020,193,85,"['Point Guard', 'Shooting Guard']",Right,False,11,United States,1986-05-04
+8,7,Ersan İlyasova,i/ilyaser01,MIL,2020,206,106,['Power Forward'],Right,True,11,Turkey,1987-05-15
+9,26,Kyle Korver,k/korveky01,MIL,2020,201,96,"['Shooting Guard', 'Small Forward', 'Power Forward']",Right,True,16,United States,1981-03-17
+10,11,Brook Lopez,l/lopezbr01,MIL,2020,216,127,['Center'],Right,False,11,United States,1988-04-01
+11,42,Robin Lopez,l/lopezro01,MIL,2020,216,127,['Center'],Right,False,11,United States,1988-04-01
+12,15,Frank Mason III,m/masonfr01,MIL,2020,180,86,['Point Guard'],Right,True,2,United States,1994-04-03
+13,9,Wesley Matthews,m/matthwe02,MIL,2020,196,99,"['Shooting Guard', 'Small Forward']",Right,False,10,United States,1986-10-14
+14,22,Khris Middleton,m/middlkh01,MIL,2020,201,100,"['Small Forward', 'Shooting Guard']",Right,False,7,United States,1991-08-12
+15,20,Marvin Williams,w/willima02,MIL,2020,203,107,"['Power Forward', 'Small Forward']",Right,True,14,United States,1986-06-19
+16,5,D.J. Wilson,w/wilsodj01,MIL,2020,208,104,['Power Forward'],Right,False,2,United States,1996-02-19
+17,3,OG Anunoby,a/anunoog01,TOR,2020,201,105,"['Small Forward', 'Power Forward']",Right,False,2,United Kingdom,1997-07-17
+18,25,Chris Boucher,b/bouchch01,TOR,2020,206,90,"['Power Forward', 'Center', 'Small Forward']",Right,False,2,Saint Lucia,1993-01-11
+19,12,Oshae Brissett,b/brissos01,TOR,2020,201,95,"['Small Forward', 'Power Forward']",Right,False,0,Canada,1998-06-20
+20,0,Terence Davis,d/daviste02,TOR,2020,193,91,['Shooting Guard'],Right,False,0,United States,1997-05-16
+21,33,Marc Gasol,g/gasolma01,TOR,2020,211,115,['Center'],Right,True,11,Spain,1985-01-29
+22,20,Dewan Hernandez,h/hernade01,TOR,2020,208,106,['Center'],Right,False,0,United States,1996-12-09
+23,4,Rondae Hollis-Jefferson,h/holliro01,TOR,2020,198,98,"['Small Forward', 'Power Forward']",Left,True,4,United States,1995-01-03
+24,9,Serge Ibaka,i/ibakase01,TOR,2020,211,106,"['Power Forward', 'Center']",Right,True,10,Republic of the Congo,1989-09-18
+25,5,Stanley Johnson,j/johnsst04,TOR,2020,198,109,"['Small Forward', 'Power Forward']",Right,False,4,United States,1996-05-29
+26,7,Kyle Lowry,l/lowryky01,TOR,2020,183,88,['Point Guard'],Right,False,13,United States,1986-03-25
+27,22,Patrick McCaw,m/mccawpa01,TOR,2020,201,82,"['Shooting Guard', 'Small Forward']",Right,False,3,United States,1995-10-25
+28,13,Malcolm Miller,m/millema01,TOR,2020,201,95,['Small Forward'],Right,False,2,United States,1993-03-06
+29,11,Shamorie Ponds,p/pondssh01,TOR,2020,183,81,['Point Guard'],Left,False,0,United States,1998-06-29
+30,24,Norman Powell,p/powelno01,TOR,2020,190,97,"['Shooting Guard', 'Small Forward']",Right,False,4,United States,1993-05-25
+31,43,Pascal Siakam,s/siakapa01,TOR,2020,203,104,['Power Forward'],Right,False,3,Cameroon,1994-04-02
+32,21,Matt Thomas,t/thomama02,TOR,2020,193,86,['Shooting Guard'],Right,True,0,United States,1994-08-04
+33,23,Fred VanVleet,v/vanvlfr01,TOR,2020,183,89,"['Point Guard', 'Shooting Guard']",Right,False,3,United States,1994-02-25
+34,1,Paul Watson,w/watsopa01,TOR,2020,198,95,['Small Forward'],Right,True,0,United States,1994-12-30
+35,20,Udoka Azubuike,a/azubuud01,UTA,2021,208,127,['Center'],Right,False,0,Nigeria,1999-09-17
+36,44,Bojan Bogdanović,b/bogdabo02,UTA,2021,201,102,"['Small Forward', 'Power Forward']",Right,False,6,Bosnia and Herzegovina,1989-04-18
+37,5,Jarrell Brantley,b/brantja01,UTA,2021,196,113,['Power Forward'],Right,False,1,United States,1996-06-07
+38,0,Jordan Clarkson,c/clarkjo01,UTA,2021,190,87,"['Shooting Guard', 'Point Guard']",Right,False,6,United States,1992-06-07
+39,10,Mike Conley,c/conlemi01,UTA,2021,183,79,['Point Guard'],Left,False,13,United States,1987-10-11
+40,15,Derrick Favors,f/favorde01,UTA,2021,206,120,"['Power Forward', 'Center']",Right,False,10,United States,1991-07-15
+41,3,Trent Forrest,f/forretr01,UTA,2021,193,95,"['Shooting Guard', 'Point Guard']",Right,False,0,United States,1998-06-12
+42,27,Rudy Gobert,g/goberru01,UTA,2021,216,117,['Center'],Right,False,7,France,1992-06-26
+43,8,Shaquille Harrison,h/harrish01,UTA,2021,193,86,"['Shooting Guard', 'Point Guard']",Left,False,3,United States,1993-10-06
+44,33,Elijah Hughes,h/hugheel01,UTA,2021,196,97,"['Shooting Guard', 'Small Forward']",Right,False,0,United States,1998-03-10
+45,77,Ersan İlyasova,i/ilyaser01,UTA,2021,206,106,['Power Forward'],Right,True,12,Turkey,1987-05-15
+46,2,Joe Ingles,i/inglejo01,UTA,2021,203,99,"['Small Forward', 'Power Forward']",Left,False,6,Australia,1987-10-02
+47,45,Donovan Mitchell,m/mitchdo01,UTA,2021,190,97,"['Shooting Guard', 'Point Guard']",Right,False,3,United States,1996-09-07
+48,16,Juwan Morgan,m/morgaju01,UTA,2021,201,105,['Power Forward'],Right,False,1,United States,1997-04-17
+49,31,Georges Niang,n/niangge01,UTA,2021,201,104,['Power Forward'],Right,False,4,United States,1993-06-17
+50,23,Royce O'Neale,o/onealro01,UTA,2021,193,102,['Small Forward'],Right,False,3,United States,1993-06-05
+51,81,Miye Oni,o/onimi01,UTA,2021,196,93,"['Shooting Guard', 'Small Forward']",Right,False,1,United States,1997-08-04
+52,21,Matt Thomas,t/thomama02,UTA,2021,193,86,['Shooting Guard'],Right,True,1,United States,1994-08-04
+53,0,Ty-Shon Alexander,a/alexaty01,PHO,2021,190,88,['Shooting Guard'],Right,False,0,United States,1998-07-16
+54,22,Deandre Ayton,a/aytonde01,PHO,2021,213,113,['Center'],Right,False,2,Bahamas,1998-07-23
+55,1,Devin Booker,b/bookede01,PHO,2021,198,93,"['Shooting Guard', 'Point Guard']",Right,False,5,United States,1996-10-30
+56,25,Mikal Bridges,b/bridgmi01,PHO,2021,198,94,"['Small Forward', 'Shooting Guard']",Right,False,2,United States,1996-08-30
+57,4,Jevon Carter,c/carteje01,PHO,2021,185,90,['Point Guard'],Right,False,2,United States,1995-09-14
+58,12,Torrey Craig,c/craigto01,PHO,2021,201,100,"['Small Forward', 'Power Forward']",Right,False,3,United States,1990-12-19
+59,99,Jae Crowder,c/crowdja01,PHO,2021,198,106,"['Small Forward', 'Power Forward']",Right,False,8,United States,1990-07-06
+60,2,Langston Galloway,g/gallola01,PHO,2021,185,90,"['Shooting Guard', 'Point Guard']",Right,False,6,United States,1991-12-09
+61,23,Cameron Johnson,j/johnsca02,PHO,2021,203,95,['Power Forward'],Right,False,1,United States,1996-03-03
+62,30,Damian Jones,j/jonesda03,PHO,2021,211,111,['Center'],Right,False,4,United States,1995-06-30
+63,8,Frank Kaminsky,k/kaminfr01,PHO,2021,213,108,"['Center', 'Power Forward']",Right,False,5,United States,1993-04-04
+64,55,E'Twaun Moore,m/mooreet01,PHO,2021,190,86,"['Shooting Guard', 'Point Guard']",Right,True,9,United States,1989-02-25
+65,11,Abdel Nader,n/naderab01,PHO,2021,196,102,['Small Forward'],Right,True,3,Egypt,1993-09-25
+66,3,Chris Paul,p/paulch01,PHO,2021,183,79,['Point Guard'],Right,False,15,United States,1985-05-06
+67,15,Cameron Payne,p/payneca01,PHO,2021,190,83,"['Point Guard', 'Shooting Guard']",Left,False,5,United States,1994-08-08
+68,20,Dario Šarić,s/saricda01,PHO,2021,208,102,"['Power Forward', 'Center']",Right,False,4,Croatia,1994-04-08
+69,10,Jalen Smith,s/smithja04,PHO,2021,208,97,"['Center', 'Power Forward']",Right,False,0,United States,2000-03-16
+70,22,Deandre Ayton,a/aytonde01,PHO,2022,213,113,['Center'],Right,False,3,Bahamas,1998-07-23
+71,30,Paris Bass,b/basspa01,PHO,2022,203,90,['Small Forward'],Right,False,0,United States,1995-08-29
+72,18,Bismack Biyombo,b/biyombi01,PHO,2022,203,115,['Center'],Right,False,10,Democratic Republic of the Congo,1992-08-28
+73,1,Devin Booker,b/bookede01,PHO,2022,198,93,"['Shooting Guard', 'Point Guard']",Right,False,6,United States,1996-10-30
+74,25,Mikal Bridges,b/bridgmi01,PHO,2022,198,94,"['Small Forward', 'Shooting Guard']",Right,False,3,United States,1996-08-30
+75,0,Torrey Craig,c/craigto01,PHO,2022,201,100,"['Small Forward', 'Power Forward']",Right,False,4,United States,1990-12-19
+76,99,Jae Crowder,c/crowdja01,PHO,2022,198,106,"['Small Forward', 'Power Forward']",Right,False,9,United States,1990-07-06
+77,4,Aaron Holiday,h/holidaa01,PHO,2022,183,83,['Point Guard'],Right,False,3,United States,1996-09-30
+78,35,Chandler Hutchison,h/hutchch01,PHO,2022,198,95,['Small Forward'],Right,False,3,United States,1996-04-26
+79,45,Justin Jackson,j/jacksju01,PHO,2022,203,99,"['Small Forward', 'Power Forward']",Right,False,4,United States,1995-03-28
+80,23,Cameron Johnson,j/johnsca02,PHO,2022,203,95,['Power Forward'],Right,False,2,United States,1996-03-03
+81,8,Frank Kaminsky,k/kaminfr01,PHO,2022,213,108,"['Center', 'Power Forward']",Right,False,6,United States,1993-04-04
+82,19,Gabriel Lundberg,l/lundbga01,PHO,2022,193,92,['Shooting Guard'],Right,True,0,Denmark,1994-12-04
+83,0,JaVale McGee,m/mcgeeja01,PHO,2022,213,122,['Center'],Right,False,13,United States,1988-01-19
+84,11,Abdel Nader,n/naderab01,PHO,2022,196,102,['Small Forward'],Right,True,4,Egypt,1993-09-25
+85,3,Chris Paul,p/paulch01,PHO,2022,183,79,['Point Guard'],Right,False,16,United States,1985-05-06
+86,15,Cameron Payne,p/payneca01,PHO,2022,190,83,"['Point Guard', 'Shooting Guard']",Left,False,6,United States,1994-08-08
+87,2,Elfrid Payton,p/paytoel01,PHO,2022,190,88,['Point Guard'],Right,False,7,United States,1994-02-22
+88,14,Landry Shamet,s/shamela01,PHO,2022,193,86,['Shooting Guard'],Right,False,3,United States,1997-03-13
+89,10,Jalen Smith,s/smithja04,PHO,2022,208,97,"['Center', 'Power Forward']",Right,False,1,United States,2000-03-16
+90,26,Emanuel Terry,t/terryem01,PHO,2022,206,99,['Power Forward'],Right,True,1,United States,1996-08-21
+91,12,Ish Wainright,w/wainris01,PHO,2022,198,113,"['Small Forward', 'Power Forward']",Right,False,0,United States,1994-09-12
+92,21,M.J. Walker,w/walkemj01,PHO,2022,196,96,['Shooting Guard'],Right,False,0,United States,1998-03-28
+93,4,Steven Adams,a/adamsst01,MEM,2022,211,120,['Center'],Right,False,8,New Zealand,1993-07-20
+94,7,Santi Aldama,a/aldamsa01,MEM,2022,211,101,['Power Forward'],Right,False,0,Spain,2001-01-10
+95,1,Kyle Anderson,a/anderky01,MEM,2022,206,104,"['Small Forward', 'Power Forward']",Right,False,7,United States,1993-09-20
+96,22,Desmond Bane,b/banede01,MEM,2022,196,97,['Shooting Guard'],Right,False,1,United States,1998-06-25
+97,24,Dillon Brooks,b/brookdi01,MEM,2022,198,102,"['Small Forward', 'Shooting Guard']",Right,False,4,Canada,1996-01-22
+98,6,Shaq Buchanan,b/buchash01,MEM,2022,190,86,['Shooting Guard'],Right,False,0,United States,1997-01-30
+99,15,Brandon Clarke,c/clarkbr01,MEM,2022,203,97,['Power Forward'],Right,False,2,Canada,1996-09-19
+100,23,Jarrett Culver,c/culveja01,MEM,2022,198,88,"['Shooting Guard', 'Small Forward']",Right,False,2,United States,1999-02-20
+101,13,Jaren Jackson Jr.,j/jacksja02,MEM,2022,208,109,"['Center', 'Power Forward']",Right,False,3,United States,1999-09-15
+102,55,DaQuan Jeffries,j/jeffrda01,MEM,2022,196,104,['Shooting Guard'],Right,False,2,United States,1997-08-30
+103,21,Tyus Jones,j/jonesty01,MEM,2022,185,88,['Point Guard'],Right,False,6,United States,1996-05-10
+104,46,John Konchar,k/konchjo01,MEM,2022,196,95,"['Shooting Guard', 'Small Forward']",Right,False,2,United States,1996-03-22
+105,31,Dakota Mathias,m/mathida01,MEM,2022,193,90,['Shooting Guard'],Right,False,1,United States,1995-07-11
+106,0,De'Anthony Melton,m/meltode01,MEM,2022,188,90,"['Point Guard', 'Shooting Guard']",Right,False,3,United States,1998-05-28
+107,25,Sam Merrill,m/merrisa01,MEM,2022,193,92,['Shooting Guard'],Right,False,1,United States,1996-05-15
+108,12,Ja Morant,m/moranja01,MEM,2022,188,78,['Point Guard'],Right,False,2,United States,1999-08-10
+109,5,Yves Pons,p/ponsyv01,MEM,2022,198,97,['Small Forward'],Left,False,0,Haiti,1999-05-07
+110,20,Xavier Sneed,s/sneedxa01,MEM,2022,196,97,['Small Forward'],Right,False,0,United States,1997-12-21
+111,3,Tyrell Terry,t/terryty01,MEM,2022,188,72,['Point Guard'],Right,False,1,United States,2000-09-28
+112,10,Jon Teske,t/teskejo01,MEM,2022,216,120,['Center'],Right,True,0,United States,1997-05-04
+113,35,Killian Tillie,t/tilliki02,MEM,2022,206,99,['Center'],Right,False,1,France,1998-03-05
+114,2,Xavier Tillman Sr.,t/tillmxa01,MEM,2022,203,111,"['Center', 'Power Forward']",Right,False,1,United States,1999-01-12
+115,8,Ziaire Williams,w/willizi02,MEM,2022,206,97,['Small Forward'],Right,False,0,United States,2001-09-12
+116,12,Grayson Allen,a/allengr01,MIL,2023,193,89,['Shooting Guard'],Right,False,4,United States,1995-10-08
+117,34,Giannis Antetokounmpo,a/antetgi01,MIL,2023,211,109,"['Power Forward', 'Small Forward', 'Point Guard', 'Shooting Guard']",Right,False,9,Greece,1994-12-06
+118,43,Thanasis Antetokounmpo,a/antetth01,MIL,2023,201,99,"['Small Forward', 'Power Forward']",Right,False,4,Greece,1992-07-18
+119,0,MarJon Beauchamp,b/beaucma01,MIL,2023,198,90,['Small Forward'],Right,False,0,United States,2000-10-12
+120,5,Jevon Carter,c/carteje01,MIL,2023,185,90,['Point Guard'],Right,False,4,United States,1995-09-14
+121,24,Pat Connaughton,c/connapa01,MIL,2023,196,94,"['Shooting Guard', 'Small Forward']",Right,False,7,United States,1993-01-06
+122,99,Jae Crowder,c/crowdja01,MIL,2023,198,106,"['Small Forward', 'Power Forward']",Right,False,10,United States,1990-07-06
+123,31,Goran Dragić,d/dragigo01,MIL,2023,193,86,"['Point Guard', 'Shooting Guard']",Left,True,14,Slovenia,1986-05-06
+124,20,A.J. Green,g/greenaj01,MIL,2023,193,90,['Shooting Guard'],Right,False,0,United States,1999-09-27
+125,3,George Hill,h/hillge01,MIL,2023,193,85,"['Point Guard', 'Shooting Guard']",Right,False,14,United States,1986-05-04
+126,21,Jrue Holiday,h/holidjr01,MIL,2023,193,92,"['Point Guard', 'Shooting Guard']",Right,False,13,United States,1990-06-12
+127,25,Serge Ibaka,i/ibakase01,MIL,2023,211,106,"['Power Forward', 'Center']",Right,True,13,Republic of the Congo,1989-09-18
+128,7,Joe Ingles,i/inglejo01,MIL,2023,203,99,"['Small Forward', 'Power Forward']",Left,False,8,Australia,1987-10-02
+129,3,Meyers Leonard,l/leoname01,MIL,2023,213,117,"['Center', 'Power Forward']",Right,False,9,United States,1992-02-27
+130,11,Brook Lopez,l/lopezbr01,MIL,2023,216,127,['Center'],Right,False,14,United States,1988-04-01
+131,54,Sandro Mamukelashvili,m/mamuksa01,MIL,2023,211,108,"['Center', 'Power Forward']",Left,False,1,United States,1999-05-23
+132,23,Wesley Matthews,m/matthwe02,MIL,2023,196,99,"['Shooting Guard', 'Small Forward']",Right,False,13,United States,1986-10-14
+133,22,Khris Middleton,m/middlkh01,MIL,2023,201,100,"['Small Forward', 'Shooting Guard']",Right,False,10,United States,1991-08-12
+134,13,Jordan Nwora,n/nworajo01,MIL,2023,203,102,['Small Forward'],Right,False,2,United States,1998-09-09
+135,9,Bobby Portis,p/portibo01,MIL,2023,208,113,"['Power Forward', 'Center']",Right,False,7,United States,1995-02-10
+136,28,Lindell Wigginton,w/wiggili01,MIL,2023,188,85,['Point Guard'],Right,False,1,Canada,1998-03-28
+137,13,Malcolm Brogdon,b/brogdma01,BOS,2023,193,103,"['Point Guard', 'Shooting Guard']",Right,False,6,United States,1992-12-11
+138,7,Jaylen Brown,b/brownja02,BOS,2023,198,101,"['Small Forward', 'Shooting Guard']",Right,False,6,United States,1996-10-24
+139,99,Justin Champagnie,c/champju01,BOS,2023,198,90,['Small Forward'],Right,False,1,United States,2001-06-29
+140,20,JD Davison,d/davisjd01,BOS,2023,185,88,"['Shooting Guard', 'Point Guard']",Right,False,0,United States,2002-10-03
+141,91,Blake Griffin,g/griffbl01,BOS,2023,206,113,"['Power Forward', 'Center']",Right,True,12,United States,1989-03-16
+142,30,Sam Hauser,h/hausesa01,BOS,2023,203,97,"['Small Forward', 'Power Forward']",Right,False,1,United States,1997-12-08
+143,42,Al Horford,h/horfoal01,BOS,2023,206,108,['Center'],Right,False,15,Dominican Republic,1986-06-03
+144,43,Justin Jackson,j/jacksju01,BOS,2023,203,99,"['Small Forward', 'Power Forward']",Right,False,5,United States,1995-03-28
+145,28,Mfiondu Kabengele,k/kabenmf01,BOS,2023,206,113,"['Power Forward', 'Center']",Right,False,2,Canada,1997-08-14
+146,40,Luke Kornet,k/kornelu01,BOS,2023,218,113,['Center'],Right,False,5,United States,1995-07-15
+147,57,Mike Muscala,m/muscami01,BOS,2023,208,108,"['Center', 'Power Forward']",Right,False,9,United States,1991-07-01
+148,11,Payton Pritchard,p/pritcpa01,BOS,2023,185,88,"['Point Guard', 'Shooting Guard']",Right,False,2,United States,1998-01-28
+149,36,Marcus Smart,s/smartma01,BOS,2023,190,99,"['Point Guard', 'Shooting Guard']",Right,False,8,United States,1994-03-06
+150,0,Jayson Tatum,t/tatumja01,BOS,2023,203,95,"['Small Forward', 'Power Forward']",Right,False,5,United States,1998-03-03
+151,4,Noah Vonleh,v/vonleno01,BOS,2023,208,116,"['Power Forward', 'Center']",Right,False,7,United States,1995-08-24
+152,9,Derrick White,w/whitede01,BOS,2023,193,86,"['Shooting Guard', 'Point Guard']",Right,False,5,United States,1994-07-02
+153,12,Grant Williams,w/willigr01,BOS,2023,198,107,['Power Forward'],Right,False,3,United States,1998-11-30
+154,44,Robert Williams,w/williro04,BOS,2023,206,107,['Center'],Right,False,4,United States,1997-10-17
+155,45,Dalano Banton,b/bantoda01,BOS,2024,206,92,['Point Guard'],Right,False,2,Canada,1999-11-07
+156,12,Oshae Brissett,b/brissos01,BOS,2024,201,95,"['Small Forward', 'Power Forward']",Right,False,4,Canada,1998-06-20
+157,7,Jaylen Brown,b/brownja02,BOS,2024,198,101,"['Small Forward', 'Shooting Guard']",Right,False,7,United States,1996-10-24
+158,20,JD Davison,d/davisjd01,BOS,2024,185,88,"['Shooting Guard', 'Point Guard']",Right,False,1,United States,2002-10-03
+159,30,Sam Hauser,h/hausesa01,BOS,2024,203,97,"['Small Forward', 'Power Forward']",Right,False,2,United States,1997-12-08
+160,4,Jrue Holiday,h/holidjr01,BOS,2024,193,92,"['Point Guard', 'Shooting Guard']",Right,False,14,United States,1990-06-12
+161,42,Al Horford,h/horfoal01,BOS,2024,206,108,['Center'],Right,False,16,Dominican Republic,1986-06-03
+162,40,Luke Kornet,k/kornelu01,BOS,2024,218,113,['Center'],Right,False,6,United States,1995-07-15
+163,50,Svi Mykhailiuk,m/mykhasv01,BOS,2024,201,92,['Small Forward'],Right,False,5,Ukraine,1997-06-10
+164,13,Drew Peterson,p/peterdr01,BOS,2024,206,92,['Power Forward'],Right,False,0,United States,1999-11-09
+165,8,Kristaps Porziņģis,p/porzikr01,BOS,2024,218,108,"['Center', 'Power Forward']",Right,False,7,Latvia,1995-08-02
+166,11,Payton Pritchard,p/pritcpa01,BOS,2024,185,88,"['Point Guard', 'Shooting Guard']",Right,False,3,United States,1998-01-28
+167,88,Neemias Queta,q/quetane01,BOS,2024,213,111,['Center'],Right,False,2,Portugal,1999-07-13
+168,44,Jaden Springer,s/sprinja01,BOS,2024,193,92,['Shooting Guard'],Right,False,2,United States,2002-09-25
+169,77,Lamar Stevens,s/stevela01,BOS,2024,198,104,"['Power Forward', 'Small Forward']",Right,False,3,United States,1997-07-09
+170,0,Jayson Tatum,t/tatumja01,BOS,2024,203,95,"['Small Forward', 'Power Forward']",Right,False,6,United States,1998-03-03
+171,26,Xavier Tillman Sr.,t/tillmxa01,BOS,2024,203,111,"['Center', 'Power Forward']",Right,False,3,United States,1999-01-12
+172,27,Jordan Walsh,w/walshjo01,BOS,2024,201,92,"['Small Forward', 'Power Forward']",Right,False,0,United States,2004-03-03
+173,9,Derrick White,w/whitede01,BOS,2024,193,86,"['Shooting Guard', 'Point Guard']",Right,False,6,United States,1994-07-02
+174,0,Christian Braun,b/braunch01,DEN,2024,198,98,['Shooting Guard'],Right,False,1,United States,2001-04-17
+175,5,Kentavious Caldwell-Pope,c/caldwke01,DEN,2024,196,92,['Shooting Guard'],Right,False,10,United States,1993-02-18
+176,21,Collin Gillespie,g/gilleco01,DEN,2024,185,88,['Point Guard'],Right,False,0,United States,1999-06-25
+177,50,Aaron Gordon,g/gordoaa01,DEN,2024,203,106,"['Power Forward', 'Small Forward']",Right,False,9,United States,1995-09-16
+178,9,Justin Holiday,h/holidju01,DEN,2024,198,81,"['Shooting Guard', 'Small Forward']",Right,False,10,United States,1989-04-05
+179,30,Jay Huff,h/huffja01,DEN,2024,216,108,['Center'],Right,False,2,United States,1998-08-25
+180,7,Reggie Jackson,j/jacksre01,DEN,2024,188,94,"['Point Guard', 'Shooting Guard']",Right,False,12,Italy,1990-04-16
+181,15,Nikola Jokić,j/jokicni01,DEN,2024,211,128,['Center'],Right,False,8,Serbia,1995-02-19
+182,6,DeAndre Jordan,j/jordade01,DEN,2024,211,120,['Center'],Left,False,15,United States,1988-07-21
+183,11,Braxton Key,k/keybr01,DEN,2024,203,104,['Small Forward'],Right,False,2,United States,1997-02-14
+184,27,Jamal Murray,m/murraja01,DEN,2024,193,97,"['Point Guard', 'Shooting Guard']",Right,False,6,Canada,1997-02-23
+185,22,Zeke Nnaji,n/nnajize01,DEN,2024,206,108,['Power Forward'],Right,False,3,United States,2001-01-09
+186,24,Jalen Pickett,p/pickeja02,DEN,2024,193,94,['Shooting Guard'],Right,False,0,United States,1999-10-22
+187,1,Michael Porter Jr.,p/portemi01,DEN,2024,208,98,['Small Forward'],Right,False,4,United States,1998-06-29
+188,3,Julian Strawther,s/strawju01,DEN,2024,201,92,"['Small Forward', 'Shooting Guard']",Right,False,0,United States,2002-04-18
+189,4,Hunter Tyson,t/tysonhu01,DEN,2024,203,97,['Power Forward'],Right,False,0,United States,2000-06-13
+190,8,Peyton Watson,w/watsope01,DEN,2024,203,90,"['Small Forward', 'Shooting Guard']",Right,False,1,United States,2002-09-11

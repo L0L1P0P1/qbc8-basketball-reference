@@ -1,0 +1,410 @@
+player_id,position
+j/jokicni01,Center
+e/embiijo01,Center
+a/antetgi01,Power Forward
+a/antetgi01,Small Forward
+a/antetgi01,Point Guard
+a/antetgi01,Shooting Guard
+h/hardeja01,Point Guard
+h/hardeja01,Shooting Guard
+w/westbru01,Point Guard
+c/curryst01,Point Guard
+d/duranke01,Small Forward
+d/duranke01,Power Forward
+d/duranke01,Shooting Guard
+j/jamesle01,Small Forward
+j/jamesle01,Power Forward
+j/jamesle01,Point Guard
+j/jamesle01,Center
+j/jamesle01,Shooting Guard
+r/rosede01,Point Guard
+b/bryanko01,Shooting Guard
+b/bryanko01,Small Forward
+n/nowitdi01,Power Forward
+n/nowitdi01,Center
+n/nashst01,Point Guard
+g/garneke01,Power Forward
+g/garneke01,Center
+g/garneke01,Small Forward
+d/duncati01,Center
+d/duncati01,Power Forward
+i/iversal01,Shooting Guard
+i/iversal01,Point Guard
+o/onealsh01,Center
+m/malonka01,Power Forward
+j/jordami01,Shooting Guard
+j/jordami01,Small Forward
+r/robinda01,Center
+o/olajuha01,Center
+b/barklch01,Power Forward
+b/barklch01,Small Forward
+j/johnsma02,Point Guard
+j/johnsma02,Shooting Guard
+j/johnsma02,Power Forward
+b/birdla01,Small Forward
+b/birdla01,Power Forward
+m/malonmo01,Center
+m/malonmo01,Power Forward
+e/ervinju01,Small Forward
+e/ervinju01,Shooting Guard
+a/abdulka01,Center
+w/waltobi01,Center
+m/mcadobo01,Center
+m/mcadobo01,Power Forward
+c/cowenda01,Center
+c/cowenda01,Power Forward
+r/reedwi01,Center
+r/reedwi01,Power Forward
+u/unselwe01,Center
+c/chambwi01,Center
+r/russebi01,Center
+r/roberos01,Point Guard
+p/pettibo01,Power Forward
+p/pettibo01,Center
+c/cousybo01,Point Guard
+l/lillada01,Point Guard
+b/bookede01,Shooting Guard
+b/bookede01,Point Guard
+y/youngtr01,Point Guard
+d/doncilu01,Point Guard
+d/doncilu01,Shooting Guard
+b/bealbr01,Shooting Guard
+m/mitchdo01,Shooting Guard
+m/mitchdo01,Point Guard
+d/davisan02,Center
+d/davisan02,Power Forward
+m/mccolcj01,Shooting Guard
+m/mccolcj01,Point Guard
+t/tatumja01,Small Forward
+t/tatumja01,Power Forward
+l/leonaka01,Small Forward
+l/lavinza01,Shooting Guard
+l/lavinza01,Small Forward
+l/lavinza01,Point Guard
+d/derozde01,Shooting Guard
+d/derozde01,Small Forward
+d/derozde01,Power Forward
+i/ingrabr01,Small Forward
+i/ingrabr01,Power Forward
+h/harrito02,Power Forward
+h/harrito02,Small Forward
+h/hieldbu01,Shooting Guard
+h/hieldbu01,Small Forward
+s/siakapa01,Power Forward
+s/sextoco01,Shooting Guard
+s/sextoco01,Point Guard
+g/gilgesh01,Point Guard
+g/gilgesh01,Shooting Guard
+w/warretj01,Small Forward
+w/warretj01,Power Forward
+d/dinwisp01,Point Guard
+d/dinwisp01,Shooting Guard
+m/middlkh01,Small Forward
+m/middlkh01,Shooting Guard
+b/bogdabo02,Small Forward
+b/bogdabo02,Power Forward
+r/randlju01,Power Forward
+r/randlju01,Center
+p/paulch01,Point Guard
+s/schrode01,Point Guard
+s/schrode01,Shooting Guard
+f/fournev01,Shooting Guard
+f/fournev01,Small Forward
+v/vucevni01,Center
+m/moranja01,Point Guard
+w/willilo02,Point Guard
+w/willilo02,Shooting Guard
+b/brookdi01,Small Forward
+b/brookdi01,Shooting Guard
+w/wiggian01,Small Forward
+w/wiggian01,Power Forward
+h/harremo01,Center
+h/harremo01,Power Forward
+h/holidjr01,Point Guard
+h/holidjr01,Shooting Guard
+p/porzikr01,Center
+p/porzikr01,Power Forward
+g/gallida01,Small Forward
+g/gallida01,Power Forward
+g/gallida01,Shooting Guard
+b/brownja02,Small Forward
+b/brownja02,Shooting Guard
+b/butleji01,Small Forward
+b/butleji01,Shooting Guard
+b/butleji01,Power Forward
+s/sabondo01,Center
+s/sabondo01,Power Forward
+a/adebaba01,Center
+a/adebaba01,Power Forward
+g/grahade01,Point Guard
+w/walkeke02,Point Guard
+r/roziete01,Point Guard
+r/roziete01,Shooting Guard
+l/lowryky01,Point Guard
+w/willizi01,Power Forward
+f/foxde01,Point Guard
+i/irvinky01,Point Guard
+i/irvinky01,Shooting Guard
+e/edwaran01,Shooting Guard
+p/powelno01,Shooting Guard
+p/powelno01,Small Forward
+b/barrerj01,Shooting Guard
+b/barrerj01,Small Forward
+g/georgpa01,Small Forward
+g/georgpa01,Power Forward
+g/georgpa01,Shooting Guard
+c/clarkjo01,Shooting Guard
+c/clarkjo01,Point Guard
+t/townska01,Center
+t/townska01,Power Forward
+g/grantje01,Power Forward
+g/grantje01,Small Forward
+b/brogdma01,Point Guard
+b/brogdma01,Shooting Guard
+h/hardati02,Shooting Guard
+h/hardati02,Small Forward
+p/portemi01,Small Forward
+c/collijo01,Power Forward
+b/bridgmi02,Small Forward
+b/bridgmi02,Power Forward
+b/ballla01,Point Guard
+g/garlada01,Point Guard
+g/garlada01,Shooting Guard
+m/murrade01,Point Guard
+m/murrade01,Shooting Guard
+p/poolejo01,Shooting Guard
+p/poolejo01,Point Guard
+b/banede01,Shooting Guard
+h/herroty01,Shooting Guard
+b/beysa01,Small Forward
+v/vanvlfr01,Point Guard
+v/vanvlfr01,Shooting Guard
+v/valanjo01,Center
+m/maxeyty01,Point Guard
+m/maxeyty01,Shooting Guard
+b/brunsja01,Point Guard
+b/brunsja01,Shooting Guard
+t/trentga02,Shooting Guard
+t/trentga02,Small Forward
+j/johnske04,Small Forward
+j/jacksja02,Center
+j/jacksja02,Power Forward
+b/barneha02,Power Forward
+b/barneha02,Small Forward
+j/jacksre01,Point Guard
+j/jacksre01,Shooting Guard
+m/markkla01,Power Forward
+m/markkla01,Small Forward
+g/greenja05,Shooting Guard
+b/bridgmi01,Small Forward
+b/bridgmi01,Shooting Guard
+t/thompkl01,Shooting Guard
+t/thompkl01,Small Forward
+w/wagnefr01,Small Forward
+b/banchpa01,Power Forward
+k/kuzmaky01,Power Forward
+k/kuzmaky01,Small Forward
+w/wembavi01,Center
+w/wembavi01,Power Forward
+w/whiteco01,Point Guard
+w/whiteco01,Shooting Guard
+t/thomaca02,Shooting Guard
+c/cunnica01,Point Guard
+c/cunnica01,Shooting Guard
+h/halibty01,Point Guard
+h/halibty01,Shooting Guard
+r/russeda01,Point Guard
+h/holmgch01,Center
+h/holmgch01,Power Forward
+w/willija06,Shooting Guard
+w/willija06,Power Forward
+a/antetth01,Small Forward
+a/antetth01,Power Forward
+b/bendedr01,Power Forward
+b/bendedr01,Center
+b/bledser01,Point Guard
+b/bledser01,Shooting Guard
+b/brownst02,Shooting Guard
+b/brownst02,Small Forward
+c/connapa01,Shooting Guard
+c/connapa01,Small Forward
+d/divindo01,Shooting Guard
+h/hillge01,Point Guard
+h/hillge01,Shooting Guard
+i/ilyaser01,Power Forward
+k/korveky01,Shooting Guard
+k/korveky01,Small Forward
+k/korveky01,Power Forward
+l/lopezbr01,Center
+l/lopezro01,Center
+m/masonfr01,Point Guard
+m/matthwe02,Shooting Guard
+m/matthwe02,Small Forward
+w/willima02,Power Forward
+w/willima02,Small Forward
+w/wilsodj01,Power Forward
+a/anunoog01,Small Forward
+a/anunoog01,Power Forward
+b/bouchch01,Power Forward
+b/bouchch01,Center
+b/bouchch01,Small Forward
+b/brissos01,Small Forward
+b/brissos01,Power Forward
+d/daviste02,Shooting Guard
+g/gasolma01,Center
+h/hernade01,Center
+h/holliro01,Small Forward
+h/holliro01,Power Forward
+i/ibakase01,Power Forward
+i/ibakase01,Center
+j/johnsst04,Small Forward
+j/johnsst04,Power Forward
+m/mccawpa01,Shooting Guard
+m/mccawpa01,Small Forward
+m/millema01,Small Forward
+p/pondssh01,Point Guard
+t/thomama02,Shooting Guard
+w/watsopa01,Small Forward
+a/azubuud01,Center
+b/brantja01,Power Forward
+c/conlemi01,Point Guard
+f/favorde01,Power Forward
+f/favorde01,Center
+f/forretr01,Shooting Guard
+f/forretr01,Point Guard
+g/goberru01,Center
+h/harrish01,Shooting Guard
+h/harrish01,Point Guard
+h/hugheel01,Shooting Guard
+h/hugheel01,Small Forward
+i/inglejo01,Small Forward
+i/inglejo01,Power Forward
+m/morgaju01,Power Forward
+n/niangge01,Power Forward
+o/onealro01,Small Forward
+o/onimi01,Shooting Guard
+o/onimi01,Small Forward
+a/alexaty01,Shooting Guard
+a/aytonde01,Center
+c/carteje01,Point Guard
+c/craigto01,Small Forward
+c/craigto01,Power Forward
+c/crowdja01,Small Forward
+c/crowdja01,Power Forward
+g/gallola01,Shooting Guard
+g/gallola01,Point Guard
+j/johnsca02,Power Forward
+j/jonesda03,Center
+k/kaminfr01,Center
+k/kaminfr01,Power Forward
+m/mooreet01,Shooting Guard
+m/mooreet01,Point Guard
+n/naderab01,Small Forward
+p/payneca01,Point Guard
+p/payneca01,Shooting Guard
+s/saricda01,Power Forward
+s/saricda01,Center
+s/smithja04,Center
+s/smithja04,Power Forward
+b/basspa01,Small Forward
+b/biyombi01,Center
+h/holidaa01,Point Guard
+h/hutchch01,Small Forward
+j/jacksju01,Small Forward
+j/jacksju01,Power Forward
+l/lundbga01,Shooting Guard
+m/mcgeeja01,Center
+p/paytoel01,Point Guard
+s/shamela01,Shooting Guard
+t/terryem01,Power Forward
+w/wainris01,Small Forward
+w/wainris01,Power Forward
+w/walkemj01,Shooting Guard
+a/adamsst01,Center
+a/aldamsa01,Power Forward
+a/anderky01,Small Forward
+a/anderky01,Power Forward
+b/buchash01,Shooting Guard
+c/clarkbr01,Power Forward
+c/culveja01,Shooting Guard
+c/culveja01,Small Forward
+j/jeffrda01,Shooting Guard
+j/jonesty01,Point Guard
+k/konchjo01,Shooting Guard
+k/konchjo01,Small Forward
+m/mathida01,Shooting Guard
+m/meltode01,Point Guard
+m/meltode01,Shooting Guard
+m/merrisa01,Shooting Guard
+p/ponsyv01,Small Forward
+s/sneedxa01,Small Forward
+t/terryty01,Point Guard
+t/teskejo01,Center
+t/tilliki02,Center
+t/tillmxa01,Center
+t/tillmxa01,Power Forward
+w/willizi02,Small Forward
+a/allengr01,Shooting Guard
+b/beaucma01,Small Forward
+d/dragigo01,Point Guard
+d/dragigo01,Shooting Guard
+g/greenaj01,Shooting Guard
+l/leoname01,Center
+l/leoname01,Power Forward
+m/mamuksa01,Center
+m/mamuksa01,Power Forward
+n/nworajo01,Small Forward
+p/portibo01,Power Forward
+p/portibo01,Center
+w/wiggili01,Point Guard
+c/champju01,Small Forward
+d/davisjd01,Shooting Guard
+d/davisjd01,Point Guard
+g/griffbl01,Power Forward
+g/griffbl01,Center
+h/hausesa01,Small Forward
+h/hausesa01,Power Forward
+h/horfoal01,Center
+k/kabenmf01,Power Forward
+k/kabenmf01,Center
+k/kornelu01,Center
+m/muscami01,Center
+m/muscami01,Power Forward
+p/pritcpa01,Point Guard
+p/pritcpa01,Shooting Guard
+s/smartma01,Point Guard
+s/smartma01,Shooting Guard
+v/vonleno01,Power Forward
+v/vonleno01,Center
+w/whitede01,Shooting Guard
+w/whitede01,Point Guard
+w/willigr01,Power Forward
+w/williro04,Center
+b/bantoda01,Point Guard
+m/mykhasv01,Small Forward
+p/peterdr01,Power Forward
+q/quetane01,Center
+s/sprinja01,Shooting Guard
+s/stevela01,Power Forward
+s/stevela01,Small Forward
+w/walshjo01,Small Forward
+w/walshjo01,Power Forward
+b/braunch01,Shooting Guard
+c/caldwke01,Shooting Guard
+g/gilleco01,Point Guard
+g/gordoaa01,Power Forward
+g/gordoaa01,Small Forward
+h/holidju01,Shooting Guard
+h/holidju01,Small Forward
+h/huffja01,Center
+j/jordade01,Center
+k/keybr01,Small Forward
+m/murraja01,Point Guard
+m/murraja01,Shooting Guard
+n/nnajize01,Power Forward
+p/pickeja02,Shooting Guard
+s/strawju01,Small Forward
+s/strawju01,Shooting Guard
+t/tysonhu01,Power Forward
+w/watsope01,Small Forward
+w/watsope01,Shooting Guard

@@ -1,0 +1,257 @@
+player_id,player_name,height_cm,weight_kg,shooting_hand,retired,experience,birthplace,birthdate
+j/jokicni01,Nikola Jokić,211,128,R,0,9,Serbia,1995
+e/embiijo01,Joel Embiid,213,127,R,0,8,Cameroon,1994
+a/antetgi01,Giannis Antetokounmpo,211,109,R,0,11,Greece,1994
+h/hardeja01,James Harden,196,99,L,0,15,United States,1989
+w/westbru01,Russell Westbrook,193,90,R,0,16,United States,1988
+c/curryst01,Stephen Curry,188,83,R,0,15,United States,1988
+d/duranke01,Kevin Durant,211,108,R,0,16,United States,1988
+j/jamesle01,LeBron James,206,113,R,0,21,United States,1984
+r/rosede01,Derrick Rose,190,90,R,1,15,United States,1988
+b/bryanko01,Kobe Bryant,198,96,R,1,20,United States,1978
+n/nowitdi01,Dirk Nowitzki,213,111,R,1,21,Germany,1978
+n/nashst01,Steve Nash,190,88,R,1,18,South Africa,1974
+g/garneke01,Kevin Garnett,211,108,R,1,21,United States,1976
+d/duncati01,Tim Duncan,211,113,R,1,19,U.S. Virgin Islands,1976
+i/iversal01,Allen Iverson,183,74,R,1,14,United States,1975
+o/onealsh01,Shaquille O'Neal,216,147,R,1,19,United States,1972
+m/malonka01,Karl Malone,206,113,R,1,19,United States,1963
+j/jordami01,Michael Jordan,198,89,R,1,15,United States,1963
+r/robinda01,David Robinson,216,106,L,1,14,United States,1965
+o/olajuha01,Hakeem Olajuwon,213,115,R,1,18,Nigeria,1963
+b/barklch01,Charles Barkley,198,114,R,1,16,United States,1963
+j/johnsma02,Magic Johnson,206,97,R,1,13,United States,1959
+b/birdla01,Larry Bird,206,99,R,1,13,United States,1956
+m/malonmo01,Moses Malone,208,97,R,1,21,United States,1955
+e/ervinju01,Julius Erving,201,95,R,1,16,United States,1950
+a/abdulka01,Kareem Abdul-Jabbar,218,102,R,1,20,United States,1947
+w/waltobi01,Bill Walton,211,95,R,1,10,United States,1952
+m/mcadobo01,Bob McAdoo,206,95,R,1,14,United States,1951
+c/cowenda01,Dave Cowens,206,104,L,1,11,United States,1948
+r/reedwi01,Willis Reed,208,106,L,1,10,United States,1942
+u/unselwe01,Wes Unseld,201,111,R,1,13,United States,1946
+c/chambwi01,Wilt Chamberlain,216,124,R,1,14,United States,1936
+r/russebi01,Bill Russell,208,97,L,1,13,United States,1934
+r/roberos01,Oscar Robertson,196,92,R,1,14,United States,1938
+p/pettibo01,Bob Pettit,206,92,R,1,11,United States,1932
+c/cousybo01,Bob Cousy,185,79,R,1,14,United States,1928
+l/lillada01,Damian Lillard,188,88,R,0,12,United States,1990
+b/bookede01,Devin Booker,198,93,R,0,9,United States,1996
+y/youngtr01,Trae Young,185,74,R,0,6,United States,1998
+d/doncilu01,Luka Dončić,198,104,R,0,6,Slovenia,1999
+b/bealbr01,Bradley Beal,193,93,R,0,12,United States,1993
+m/mitchdo01,Donovan Mitchell,190,97,R,0,7,United States,1996
+d/davisan02,Anthony Davis,208,114,R,0,12,United States,1993
+m/mccolcj01,CJ McCollum,190,86,R,0,11,United States,1991
+t/tatumja01,Jayson Tatum,203,95,R,0,7,United States,1998
+l/leonaka01,Kawhi Leonard,201,102,R,0,12,United States,1991
+l/lavinza01,Zach LaVine,196,90,R,0,10,United States,1995
+d/derozde01,DeMar DeRozan,198,99,R,0,15,United States,1989
+i/ingrabr01,Brandon Ingram,203,86,R,0,8,United States,1997
+h/harrito02,Tobias Harris,203,102,R,0,13,United States,1992
+h/hieldbu01,Buddy Hield,193,99,R,0,8,Bahamas,1992
+s/siakapa01,Pascal Siakam,203,104,R,0,8,Cameroon,1994
+s/sextoco01,Collin Sexton,190,86,R,0,6,United States,1999
+g/gilgesh01,Shai Gilgeous-Alexander,198,90,R,0,6,Canada,1998
+w/warretj01,T.J. Warren,203,99,R,0,9,United States,1993
+d/dinwisp01,Spencer Dinwiddie,196,97,R,0,10,United States,1993
+m/middlkh01,Khris Middleton,201,100,R,0,12,United States,1991
+b/bogdabo02,Bojan Bogdanović,201,102,R,0,10,Bosnia and Herzegovina,1989
+r/randlju01,Julius Randle,206,113,L,0,10,United States,1994
+p/paulch01,Chris Paul,183,79,R,0,19,United States,1985
+s/schrode01,Dennis Schröder,185,78,R,0,11,Germany,1993
+f/fournev01,Evan Fournier,198,92,R,0,12,France,1992
+v/vucevni01,Nikola Vučević,208,117,R,0,13,Switzerland,1990
+m/moranja01,Ja Morant,188,78,R,0,5,United States,1999
+w/willilo02,Lou Williams,188,79,R,1,17,United States,1986
+b/brookdi01,Dillon Brooks,198,102,R,0,7,Canada,1996
+w/wiggian01,Andrew Wiggins,201,89,R,0,10,Canada,1995
+h/harremo01,Montrezl Harrell,201,108,R,0,8,United States,1994
+h/holidjr01,Jrue Holiday,193,92,R,0,15,United States,1990
+p/porzikr01,Kristaps Porziņģis,218,108,R,0,8,Latvia,1995
+g/gallida01,Danilo Gallinari,208,105,R,0,14,Italy,1988
+b/brownja02,Jaylen Brown,198,101,R,0,8,United States,1996
+b/butleji01,Jimmy Butler,201,104,R,0,13,United States,1989
+s/sabondo01,Domantas Sabonis,208,108,L,0,8,United States,1996
+a/adebaba01,Bam Adebayo,206,115,R,0,7,United States,1997
+g/grahade01,Devonte' Graham,185,88,R,0,6,United States,1995
+w/walkeke02,Kemba Walker,183,83,R,1,12,United States,1990
+r/roziete01,Terry Rozier,185,86,R,0,9,United States,1994
+l/lowryky01,Kyle Lowry,183,88,R,0,18,United States,1986
+w/willizi01,Zion Williamson,198,128,L,0,4,United States,2000
+f/foxde01,De'Aaron Fox,190,83,L,0,7,United States,1997
+i/irvinky01,Kyrie Irving,188,88,R,0,13,Australia,1992
+e/edwaran01,Anthony Edwards,193,102,R,0,4,United States,2001
+p/powelno01,Norman Powell,190,97,R,0,9,United States,1993
+b/barrerj01,RJ Barrett,198,97,L,0,5,Canada,2000
+g/georgpa01,Paul George,203,99,R,0,14,United States,1990
+c/clarkjo01,Jordan Clarkson,190,87,R,0,10,United States,1992
+t/townska01,Karl-Anthony Towns,213,112,R,0,9,United States,1995
+g/grantje01,Jerami Grant,201,95,R,0,10,United States,1994
+b/brogdma01,Malcolm Brogdon,193,103,R,0,8,United States,1992
+h/hardati02,Tim Hardaway Jr.,196,92,R,0,11,United States,1992
+p/portemi01,Michael Porter Jr.,208,98,R,0,5,United States,1998
+c/collijo01,John Collins,206,106,R,0,7,United States,1997
+b/bridgmi02,Miles Bridges,201,102,L,0,5,United States,1998
+b/ballla01,LaMelo Ball,201,81,R,0,4,United States,2001
+g/garlada01,Darius Garland,185,87,R,0,5,United States,2000
+m/murrade01,Dejounte Murray,196,81,R,0,7,United States,1996
+p/poolejo01,Jordan Poole,193,87,R,0,5,United States,1999
+b/banede01,Desmond Bane,196,97,R,0,4,United States,1998
+h/herroty01,Tyler Herro,196,88,R,0,5,United States,2000
+b/beysa01,Saddiq Bey,201,97,R,0,4,United States,1999
+v/vanvlfr01,Fred VanVleet,183,89,R,0,8,United States,1994
+v/valanjo01,Jonas Valančiūnas,211,120,R,0,12,Lithuania,1992
+m/maxeyty01,Tyrese Maxey,188,90,R,0,4,United States,2000
+b/brunsja01,Jalen Brunson,188,86,L,0,6,United States,1996
+t/trentga02,Gary Trent Jr.,196,94,R,0,6,United States,1999
+j/johnske04,Keldon Johnson,196,99,R,0,5,United States,1999
+j/jacksja02,Jaren Jackson Jr.,208,109,R,0,6,United States,1999
+b/barneha02,Harrison Barnes,203,102,R,0,12,United States,1992
+j/jacksre01,Reggie Jackson,188,94,R,0,13,Italy,1990
+m/markkla01,Lauri Markkanen,213,108,R,0,7,Finland,1997
+g/greenja05,Jalen Green,193,80,R,0,3,United States,2002
+b/bridgmi01,Mikal Bridges,198,94,R,0,6,United States,1996
+t/thompkl01,Klay Thompson,196,97,R,0,11,United States,1990
+w/wagnefr01,Franz Wagner,208,102,R,0,3,Germany,2001
+b/banchpa01,Paolo Banchero,208,113,R,0,2,United States,2002
+k/kuzmaky01,Kyle Kuzma,206,100,R,0,7,United States,1995
+w/wembavi01,Victor Wembanyama,221,106,R,0,1,France,2004
+w/whiteco01,Coby White,196,88,R,0,5,United States,2000
+t/thomaca02,Cam Thomas,193,95,R,0,3,Japan,2001
+c/cunnica01,Cade Cunningham,198,99,R,0,3,United States,2001
+h/halibty01,Tyrese Haliburton,196,83,R,0,4,United States,2000
+r/russeda01,D'Angelo Russell,190,87,L,0,9,United States,1996
+h/holmgch01,Chet Holmgren,216,96,R,0,1,United States,2002
+w/willija06,Jalen Williams,198,99,R,0,2,United States,2001
+a/antetth01,Thanasis Antetokounmpo,201,99,R,0,1,Greece,1992
+b/bendedr01,Dragan Bender,213,102,R,1,3,Bosnia and Herzegovina,1997
+b/bledser01,Eric Bledsoe,185,97,R,1,9,United States,1989
+b/brownst02,Sterling Brown,196,99,R,0,2,United States,1995
+c/connapa01,Pat Connaughton,196,94,R,0,4,United States,1993
+d/divindo01,Donte DiVincenzo,193,92,R,0,1,United States,1997
+h/hillge01,George Hill,193,85,R,0,11,United States,1986
+i/ilyaser01,Ersan İlyasova,206,106,R,1,11,Turkey,1987
+k/korveky01,Kyle Korver,201,96,R,1,16,United States,1981
+l/lopezbr01,Brook Lopez,216,127,R,0,11,United States,1988
+l/lopezro01,Robin Lopez,216,127,R,0,11,United States,1988
+m/masonfr01,Frank Mason III,180,86,R,1,2,United States,1994
+m/matthwe02,Wesley Matthews,196,99,R,0,10,United States,1986
+w/willima02,Marvin Williams,203,107,R,1,14,United States,1986
+w/wilsodj01,D.J. Wilson,208,104,R,0,2,United States,1996
+a/anunoog01,OG Anunoby,201,105,R,0,2,United Kingdom,1997
+b/bouchch01,Chris Boucher,206,90,R,0,2,Saint Lucia,1993
+b/brissos01,Oshae Brissett,201,95,R,0,0,Canada,1998
+d/daviste02,Terence Davis,193,91,R,0,0,United States,1997
+g/gasolma01,Marc Gasol,211,115,R,1,11,Spain,1985
+h/hernade01,Dewan Hernandez,208,106,R,0,0,United States,1996
+h/holliro01,Rondae Hollis-Jefferson,198,98,L,1,4,United States,1995
+i/ibakase01,Serge Ibaka,211,106,R,1,10,Republic of the Congo,1989
+j/johnsst04,Stanley Johnson,198,109,R,0,4,United States,1996
+m/mccawpa01,Patrick McCaw,201,82,R,0,3,United States,1995
+m/millema01,Malcolm Miller,201,95,R,0,2,United States,1993
+p/pondssh01,Shamorie Ponds,183,81,L,0,0,United States,1998
+t/thomama02,Matt Thomas,193,86,R,1,0,United States,1994
+w/watsopa01,Paul Watson,198,95,R,1,0,United States,1994
+a/azubuud01,Udoka Azubuike,208,127,R,0,0,Nigeria,1999
+b/brantja01,Jarrell Brantley,196,113,R,0,1,United States,1996
+c/conlemi01,Mike Conley,183,79,L,0,13,United States,1987
+f/favorde01,Derrick Favors,206,120,R,0,10,United States,1991
+f/forretr01,Trent Forrest,193,95,R,0,0,United States,1998
+g/goberru01,Rudy Gobert,216,117,R,0,7,France,1992
+h/harrish01,Shaquille Harrison,193,86,L,0,3,United States,1993
+h/hugheel01,Elijah Hughes,196,97,R,0,0,United States,1998
+i/inglejo01,Joe Ingles,203,99,L,0,6,Australia,1987
+m/morgaju01,Juwan Morgan,201,105,R,0,1,United States,1997
+n/niangge01,Georges Niang,201,104,R,0,4,United States,1993
+o/onealro01,Royce O'Neale,193,102,R,0,3,United States,1993
+o/onimi01,Miye Oni,196,93,R,0,1,United States,1997
+a/alexaty01,Ty-Shon Alexander,190,88,R,0,0,United States,1998
+a/aytonde01,Deandre Ayton,213,113,R,0,2,Bahamas,1998
+c/carteje01,Jevon Carter,185,90,R,0,2,United States,1995
+c/craigto01,Torrey Craig,201,100,R,0,3,United States,1990
+c/crowdja01,Jae Crowder,198,106,R,0,8,United States,1990
+g/gallola01,Langston Galloway,185,90,R,0,6,United States,1991
+j/johnsca02,Cameron Johnson,203,95,R,0,1,United States,1996
+j/jonesda03,Damian Jones,211,111,R,0,4,United States,1995
+k/kaminfr01,Frank Kaminsky,213,108,R,0,5,United States,1993
+m/mooreet01,E'Twaun Moore,190,86,R,1,9,United States,1989
+n/naderab01,Abdel Nader,196,102,R,1,3,Egypt,1993
+p/payneca01,Cameron Payne,190,83,L,0,5,United States,1994
+s/saricda01,Dario Šarić,208,102,R,0,4,Croatia,1994
+s/smithja04,Jalen Smith,208,97,R,0,0,United States,2000
+b/basspa01,Paris Bass,203,90,R,0,0,United States,1995
+b/biyombi01,Bismack Biyombo,203,115,R,0,10,Democratic Republic of the Congo,1992
+h/holidaa01,Aaron Holiday,183,83,R,0,3,United States,1996
+h/hutchch01,Chandler Hutchison,198,95,R,0,3,United States,1996
+j/jacksju01,Justin Jackson,203,99,R,0,4,United States,1995
+l/lundbga01,Gabriel Lundberg,193,92,R,1,0,Denmark,1994
+m/mcgeeja01,JaVale McGee,213,122,R,0,13,United States,1988
+p/paytoel01,Elfrid Payton,190,88,R,0,7,United States,1994
+s/shamela01,Landry Shamet,193,86,R,0,3,United States,1997
+t/terryem01,Emanuel Terry,206,99,R,1,1,United States,1996
+w/wainris01,Ish Wainright,198,113,R,0,0,United States,1994
+w/walkemj01,M.J. Walker,196,96,R,0,0,United States,1998
+a/adamsst01,Steven Adams,211,120,R,0,8,New Zealand,1993
+a/aldamsa01,Santi Aldama,211,101,R,0,0,Spain,2001
+a/anderky01,Kyle Anderson,206,104,R,0,7,United States,1993
+b/buchash01,Shaq Buchanan,190,86,R,0,0,United States,1997
+c/clarkbr01,Brandon Clarke,203,97,R,0,2,Canada,1996
+c/culveja01,Jarrett Culver,198,88,R,0,2,United States,1999
+j/jeffrda01,DaQuan Jeffries,196,104,R,0,2,United States,1997
+j/jonesty01,Tyus Jones,185,88,R,0,6,United States,1996
+k/konchjo01,John Konchar,196,95,R,0,2,United States,1996
+m/mathida01,Dakota Mathias,193,90,R,0,1,United States,1995
+m/meltode01,De'Anthony Melton,188,90,R,0,3,United States,1998
+m/merrisa01,Sam Merrill,193,92,R,0,1,United States,1996
+p/ponsyv01,Yves Pons,198,97,L,0,0,Haiti,1999
+s/sneedxa01,Xavier Sneed,196,97,R,0,0,United States,1997
+t/terryty01,Tyrell Terry,188,72,R,0,1,United States,2000
+t/teskejo01,Jon Teske,216,120,R,1,0,United States,1997
+t/tilliki02,Killian Tillie,206,99,R,0,1,France,1998
+t/tillmxa01,Xavier Tillman Sr.,203,111,R,0,1,United States,1999
+w/willizi02,Ziaire Williams,206,97,R,0,0,United States,2001
+a/allengr01,Grayson Allen,193,89,R,0,4,United States,1995
+b/beaucma01,MarJon Beauchamp,198,90,R,0,0,United States,2000
+d/dragigo01,Goran Dragić,193,86,L,1,14,Slovenia,1986
+g/greenaj01,A.J. Green,193,90,R,0,0,United States,1999
+l/leoname01,Meyers Leonard,213,117,R,0,9,United States,1992
+m/mamuksa01,Sandro Mamukelashvili,211,108,L,0,1,United States,1999
+n/nworajo01,Jordan Nwora,203,102,R,0,2,United States,1998
+p/portibo01,Bobby Portis,208,113,R,0,7,United States,1995
+w/wiggili01,Lindell Wigginton,188,85,R,0,1,Canada,1998
+c/champju01,Justin Champagnie,198,90,R,0,1,United States,2001
+d/davisjd01,JD Davison,185,88,R,0,0,United States,2002
+g/griffbl01,Blake Griffin,206,113,R,1,12,United States,1989
+h/hausesa01,Sam Hauser,203,97,R,0,1,United States,1997
+h/horfoal01,Al Horford,206,108,R,0,15,Dominican Republic,1986
+k/kabenmf01,Mfiondu Kabengele,206,113,R,0,2,Canada,1997
+k/kornelu01,Luke Kornet,218,113,R,0,5,United States,1995
+m/muscami01,Mike Muscala,208,108,R,0,9,United States,1991
+p/pritcpa01,Payton Pritchard,185,88,R,0,2,United States,1998
+s/smartma01,Marcus Smart,190,99,R,0,8,United States,1994
+v/vonleno01,Noah Vonleh,208,116,R,0,7,United States,1995
+w/whitede01,Derrick White,193,86,R,0,5,United States,1994
+w/willigr01,Grant Williams,198,107,R,0,3,United States,1998
+w/williro04,Robert Williams,206,107,R,0,4,United States,1997
+b/bantoda01,Dalano Banton,206,92,R,0,2,Canada,1999
+m/mykhasv01,Svi Mykhailiuk,201,92,R,0,5,Ukraine,1997
+p/peterdr01,Drew Peterson,206,92,R,0,0,United States,1999
+q/quetane01,Neemias Queta,213,111,R,0,2,Portugal,1999
+s/sprinja01,Jaden Springer,193,92,R,0,2,United States,2002
+s/stevela01,Lamar Stevens,198,104,R,0,3,United States,1997
+w/walshjo01,Jordan Walsh,201,92,R,0,0,United States,2004
+b/braunch01,Christian Braun,198,98,R,0,1,United States,2001
+c/caldwke01,Kentavious Caldwell-Pope,196,92,R,0,10,United States,1993
+g/gilleco01,Collin Gillespie,185,88,R,0,0,United States,1999
+g/gordoaa01,Aaron Gordon,203,106,R,0,9,United States,1995
+h/holidju01,Justin Holiday,198,81,R,0,10,United States,1989
+h/huffja01,Jay Huff,216,108,R,0,2,United States,1998
+j/jordade01,DeAndre Jordan,211,120,L,0,15,United States,1988
+k/keybr01,Braxton Key,203,104,R,0,2,United States,1997
+m/murraja01,Jamal Murray,193,97,R,0,6,Canada,1997
+n/nnajize01,Zeke Nnaji,206,108,R,0,3,United States,2001
+p/pickeja02,Jalen Pickett,193,94,R,0,0,United States,1999
+s/strawju01,Julian Strawther,201,92,R,0,0,United States,2002
+t/tysonhu01,Hunter Tyson,203,97,R,0,0,United States,2000
+w/watsope01,Peyton Watson,203,90,R,0,1,United States,2002
